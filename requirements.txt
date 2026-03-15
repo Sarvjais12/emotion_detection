@@ -1,0 +1,4 @@
+gradio
+deepface
+transformers
+opencv-python-headless
