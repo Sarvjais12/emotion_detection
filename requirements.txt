@@ -2,3 +2,4 @@ gradio
 deepface
 transformers
 opencv-python-headless
+tf-keras
